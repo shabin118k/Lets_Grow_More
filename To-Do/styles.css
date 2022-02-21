@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    color: #6a6afa;
+}
+span{
+   color: #9292ef;
+}
+input[type="text"]{
+    padding: 20px 130px;
+    background-color: #7979ff42;
+    border: none;
+    border-radius: 25px;
+}
+input[type="button"]{
+    padding: 15px 20px;
+    background-color: #dcdcff;
+    border: none;
+    border-radius: 25px;
+}
+#Task-Div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+P{
+    font-size: 25px;
+    border-bottom: 1px solid #7e7efa;
+    width: 400px;
+}
+button{
+    border-radius: 25px;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #dcdcff8a;
+    border: none;
+}
+.divClass{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
