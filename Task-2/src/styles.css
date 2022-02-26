@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#flexProp {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffc97970;
+}
+button {
+  border: none;
+  background-color: #fa990d54;
+  padding: 10px 20px;
+  margin: 20px;
+}
+#flexDiv {
+  display: flex;
+  flex-wrap: wrap;
+  flex-wrap: flex;
+  justify-content: center;
+  margin: 30px;
+}
